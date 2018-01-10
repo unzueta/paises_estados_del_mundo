@@ -1,12 +1,3 @@
-USE [MentorXCore_MentorX_v1]
-GO
-
-SET ANSI_NULLS ON
-GO
-
-SET QUOTED_IDENTIFIER ON
-GO
-
 INSERT INTO Regiones (PaisId, Nombre) VALUES
 (3, N'Azerbaijan'),
 (3, N'Nargorni Karabakh'),
