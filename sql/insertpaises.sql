@@ -210,7 +210,7 @@ INSERT INTO Paises (Id, Nombre) VALUES
 (239, N'Tuvalu'),
 (240, N'Vanuatu'),
 (241, N'Wallis y Futuna'),
-(242, N'Sáhara Occidental'),
+(242, N'Sahara Occidental'),
 (243, N'Yemen'),
 (246, N'Puerto Rico');
 GO
